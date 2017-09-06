@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/FamousFootballPlayer/FamousFootballPlayer.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FamousFootballPlayer/FamousFootballPlayer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+为你我用了半年的积蓄漂洋过海的来看你
+为了这次相聚
+我连见面时的呼吸都曾反复练习
+言语从来没能将我的情意表达千万分之一
+为了这个遗憾我在夜里想了又想不肯睡去
+记忆它总是慢慢的累积在我心中无法抹去
+为了你的承诺
+我在最绝望的时候都忍着不哭泣
+陌生的城市啊熟悉的角落里
+也曾彼此安慰也曾相拥叹息
+不管将要面对什么样的结局
+在漫天风沙里望着你远去
+我竟悲伤得不能自己
+多盼能送君千里直到山穷水尽一生和你相依
+为你我用了半年的积蓄漂洋过海的来看你
+为了这次相聚
+我连见面时的呼吸都曾反复练习
+言语从来没能将我的情意表达千万分之一
+为了这个遗憾我在夜里想了又想不肯睡去
+记忆它总是慢慢的累积
+在我心中无法抹去为了你的承诺
+我在最绝望的时候都忍着不哭泣
+陌生的城市啊熟悉的角落里
+也曾彼此安慰也曾相拥叹息
+不管将要面对什么样的结局
+在漫天风沙里望着你远去
+我竟悲伤得不能自己
+多盼能送君千里直到山穷水尽一生和你相依
+陌生的城市啊熟悉的角落里
+也曾彼此安慰也曾相拥叹息
+不管将要面对什么样的结局
+在漫天风沙里望着你远去
+我竟悲伤得不能自己
+多盼能送君千里直到山穷水尽一生和你相依
+陌生的城市啊熟悉的角落里
+也曾彼此安慰也曾相拥叹息
+不管将要面对什么样的结局
+在漫天风沙里望着你远去
+我竟悲伤得不能自己
+多盼能送君千里直到山穷水尽一生和你相依
